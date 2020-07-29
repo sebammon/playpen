@@ -1,0 +1,17 @@
+h1 {
+    margin: 0;
+    padding-top: 2rem;
+}
+
+.section {
+    text-align: center;
+    background-color: #468189;
+    height: 400vh
+}
+
+.indicator {
+    position: fixed;
+    top: 0;
+    background-color: #bd4540;
+    height: 5px;
+}

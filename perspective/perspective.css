@@ -1,0 +1,24 @@
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header {
+    text-align: center;
+}
+
+.wrapper {
+    perspective: 500px;
+}
+
+.img {
+    background-image: url("./cars.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    width: 400px;
+    height: 300px;
+
+    box-shadow: 0 0 20px #031926;
+}

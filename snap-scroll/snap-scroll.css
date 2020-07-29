@@ -1,0 +1,37 @@
+body {
+    overscroll-behavior: none;
+}
+
+h1 {
+    color: #ffffff;
+    margin: 0;
+    padding-top: 2rem;
+}
+
+.static-container {
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    max-height: 100vh;
+}
+
+.static {
+    scroll-snap-align: start;
+    height: 100vh;
+    text-align: center;
+}
+
+.static-1 {
+    background-color: #7400B8;
+}
+
+.static-2 {
+    background-color: #6930C3;
+}
+
+.static-3 {
+    background-color: #5E60CE;
+}
+
+.static-4 {
+    background-color: #5390D9;
+}

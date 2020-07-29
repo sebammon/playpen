@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Scroll into View</title>
+    <link rel="stylesheet" href="../assets/master.css">
+    <link rel="stylesheet" href="scroll-into-view.css">
+    <script src="scroll-into-view.js"></script>
+</head>
+<body>
+<header class="header">
+    <h1>Header</h1>
+    <p>Go to section</p>
+    <div class="btn-group">
+        <a class="btn" onclick="goToElement('section-1')">Section 1</a>
+        <a class="btn" onclick="goToElement('section-2')">Section 2</a>
+        <a class="btn" onclick="goToElement('section-3')">Section 3</a>
+    </div>
+</header>
+<section id="section-1" class="section section-1">
+    <h1>Section 1</h1>
+    <a class="btn btn-group" onclick="goToTop()">Go to top</a>
+</section>
+<section id="section-2" class="section section-2">
+    <h1>Section 2</h1>
+    <a class="btn btn-group" onclick="goToTop()">Go to top</a>
+</section>
+<section id="section-3" class="section section-3">
+    <h1>Section 3</h1>
+    <a class="btn btn-group" onclick="goToTop()">Go to top</a>
+</section>
+</body>
+</html>

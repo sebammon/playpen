@@ -1,0 +1,54 @@
+.wrapper {
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    perspective: 1px;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.img-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 50vh;
+    width: 100vw;
+}
+
+.img-1:after {
+    content: "";
+    background-image: url("https://source.unsplash.com/6DTGGRoW5WI");
+
+    height: 100%;
+    width: 100%;
+
+    transform: translateZ(-1px) scale(2);
+    /* For z-index to work you need to set a position anything but static */
+    position: absolute;
+    z-index: -1;
+
+    top: -30%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.static {
+    background-color: #468189;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.static h1 {
+    padding-top: 2rem;
+    font-size: 2rem;
+}

@@ -1,0 +1,54 @@
+h1 {
+    margin: 0;
+}
+
+p {
+    margin-bottom: 1.5rem;
+}
+
+.btn {
+    color: white;
+    display: inline-block;
+    background-color: #F0544F;
+    padding: 0.5rem 1rem;
+    margin-right: 0.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.btn:hover {
+    background-color: #bd4540;
+}
+
+.btn:active {
+    transform: translateY(2px);
+}
+
+.btn-group {
+    margin-top: 1rem;
+}
+
+.header {
+    color: white;
+    padding: 2rem;
+    height: 30vh;
+    background-color: #3E4E50;
+}
+
+.section {
+    padding: 2rem;
+    height: calc(100vh - 4rem);
+}
+
+.section-1 {
+    background-color: #FACFAD;
+}
+
+.section-2 {
+    background-color: #F8BD7F;
+}
+
+.section-3 {
+    background-color: #F5AC72;
+}

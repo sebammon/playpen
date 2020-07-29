@@ -1,0 +1,51 @@
+/* Based on the cards used in CodePen */
+
+.card {
+    position: relative;
+    max-width: 300px;
+    background-color: #031926;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    color: white;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card h1 {
+    text-align: center;
+}
+
+.card-icon {
+    width: 75px;
+    height: 75px;
+    background-color: #F4E9CD;
+    border-radius: 10px;
+    position: absolute;
+    top: -30px;
+    left: 40px;
+}
+
+.card-img {
+    width: 100%;
+    height: 100%;
+}
+
+.button {
+    display: inline-block;
+    background-color: #468189;
+    padding: 1rem;
+    border-radius: 4px;
+    color: white;
+}
+
+.button:active {
+    transform: translateY(1px);
+}
+
+.card-grid {
+    display: flex;
+    justify-content: space-between;
+}

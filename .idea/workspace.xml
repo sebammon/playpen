@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2f25250-b2c9-4fa3-abf9-c236055250be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dCvYNhpu2Q5TWZYA6XDN4vmmG4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/perspective" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/hover-cards" />
+      <recent name="$PROJECT_DIR$/buttons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.parallax.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/playpen/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="parallax.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/playpen/parallax/parallax.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="scroll-js.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/playpen/scroll-js/scroll-js.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.parallax.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.scroll-js.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2f25250-b2c9-4fa3-abf9-c236055250be" name="Default Changelist" comment="" />
+      <created>1591941935770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591941935770</updated>
+      <workItem from="1591941960986" duration="11302000" />
+      <workItem from="1592186978751" duration="1911000" />
+      <workItem from="1592289098438" duration="8938000" />
+      <workItem from="1592462251405" duration="5148000" />
+      <workItem from="1592619192457" duration="4291000" />
+      <workItem from="1592706881826" duration="8106000" />
+      <workItem from="1592880723025" duration="123000" />
+      <workItem from="1592891082072" duration="4308000" />
+      <workItem from="1592993955020" duration="2747000" />
+      <workItem from="1593053907049" duration="2839000" />
+      <workItem from="1593748958180" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="166" key="#Web_Browsers" timestamp="1591942207666">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="440" y="166" key="#Web_Browsers/0.23.1680.959@0.23.1680.959" timestamp="1591942207666" />
+    <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592553524949">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.959@0.23.1680.959" timestamp="1592553524949" />
+    <state x="578" y="254" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592462419255">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="578" y="254" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.959@0.23.1680.959" timestamp="1592462419255" />
+    <state x="505" y="232" width="670" height="676" key="search.everywhere.popup" timestamp="1593055142147">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="505" y="232" width="670" height="676" key="search.everywhere.popup/0.23.1680.959@0.23.1680.959" timestamp="1593055142147" />
+  </component>
+</project>

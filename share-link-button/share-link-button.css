@@ -1,0 +1,62 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: black;
+}
+
+.btn-container {
+    display: flex;
+    width: 200px;
+    justify-content: flex-end;
+}
+
+.btn-container.shared .btn {
+    width: 60px;
+}
+
+.btn-container.shared .btn-text {
+    opacity: 0;
+}
+
+.btn-container.shared .btn::after {
+    opacity: 1;
+}
+
+.btn-text {
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.btn::after {
+    opacity: 0;
+    display: block;
+    content: '';
+    background-image: url('done.svg');
+    background-size: 30px 30px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: opacity 0.3s ease-in-out 1.4s;
+}
+
+.btn {
+    position: relative;
+    width: 100%;
+    height: 60px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    background: white;
+    color: black;
+    font-size: 1.5rem;
+    transition: width 1s ease-in-out 0.3s;
+}
+
+.btn:active {
+    transform: scale(0.95);
+}

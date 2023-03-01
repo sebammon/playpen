@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Share link button</title>
+    <link rel="stylesheet" href="../assets/master.css">
+    <link rel="stylesheet" href="share-link-button.css">
+</head>
+<body>
+<div class="btn-container">
+    <button class="btn">
+        <span class="btn-text">Share link</span>
+    </button>
+</div>
+<script>
+    const btn = document.querySelector('.btn');
+    const btnContainer = document.querySelector('.btn-container');
+
+    btn.addEventListener('click', () => {
+        btnContainer.classList.add('shared');
+    });
+</script>
+</body>
+</html>
